@@ -3,7 +3,7 @@
      "tag": "payRequest",
      "commentAllowed": 255,
      "callback": "https://getalby.com/lnurlp/olivia_fundraiser/callback",
-     "metadata": "[[\"text/identifier\", \"olivia_fundraiser@getalby.com\"], [\"text/plain\", \"Sats for olivia_fundraiser\"]]",
+     "metadata": "[[\"text/identifier\", \"olivia_fundraiser@getalby.com\"], [\"text/plain\", \"Sats for Olivia Fundraiser\"]]",
      "minSendable": 100,
      "maxSendable": 11000000000,
      "payerData": {
